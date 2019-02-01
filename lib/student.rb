@@ -1,6 +1,6 @@
 class Student < User
 @knowledge == []
 def knowledge
-  @knowledge < 
+  @knowledge < self
 end
 end
