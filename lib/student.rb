@@ -1,7 +1,7 @@
 class Student < User
 @knowledge == []
 def learn
-  @knowledge << self.Student
+  @knowledge << self
 end
 
 def knowledge
